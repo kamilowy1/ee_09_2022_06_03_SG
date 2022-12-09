@@ -1,0 +1,105 @@
+body 
+{
+    font-family: Tahoma;
+    margin: 0;
+}
+
+#baner
+{
+    background-color: Tomato;
+    color: white;
+    padding: 10px;
+}
+
+#główny
+{
+    background-color: seashell;
+    height: 500px;
+    margin-top: -20px;
+    overflow: auto;
+}
+
+#stopka1
+{
+background-color: tomato;
+color: white;
+width: 25%;
+height:160px;
+float: left;
+}
+
+#stopka2
+{
+    background-color: tomato;
+    color: white;
+    width: 25%;
+    height:160px;  
+    float: left;
+}
+
+#stopka3
+{
+    background-color: tomato;
+    color: white;
+    width: 25%;
+    height:160px;  
+    float: left;
+}
+
+#stopka4
+{
+    background-color: tomato;
+    color: white;
+    width: 25%;
+    height:160px;
+    float: left;
+}
+
+h1
+{
+text-align:center;
+}
+
+h2
+{
+text-align: center;
+}
+
+h4
+{
+    text-align: right;
+    margin-right: 40px;
+    font-size: 150%;
+    font-style:italic;
+}
+
+a
+{
+    color: white;
+}
+
+.opinia
+{
+    background-color: white;
+    color: DimGray;
+    width: 60%;
+    height: 220px;
+    margin: 40px auto;
+    box-shadow: 0 0 10px 5px dimgray;
+}
+
+
+
+img 
+{
+float: left;
+margin: 10px;
+border-radius: 10px;
+}
+
+blockquote
+{
+    padding: 10px;
+    font-size: 150%;
+    font-style:italic;
+}
